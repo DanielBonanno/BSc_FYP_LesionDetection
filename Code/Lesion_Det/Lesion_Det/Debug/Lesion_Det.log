@@ -1,0 +1,20 @@
+﻿  Main.cpp
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(867): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(959): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(969): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(980): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1023): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1046): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1073): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1079): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1098): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1126): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1129): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1137): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1152): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\desktop\daniel bonanno -final year project 2016 code and executables\lesion_det\lesion_det\main.cpp(1188): warning C4018: '<': signed/unsigned mismatch
+  Lesion_Det.vcxproj -> C:\Users\danie\Desktop\Daniel Bonanno -Final Year Project 2016 Code and Executables\Lesion_Det\Debug\Lesion_Det.exe

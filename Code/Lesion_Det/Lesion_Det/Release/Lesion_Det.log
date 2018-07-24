@@ -1,0 +1,25 @@
+﻿  Main.cpp
+Main.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(867): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(959): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(969): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(980): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1023): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1046): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1073): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1079): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1098): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1126): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1129): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1137): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1152): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1188): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  694 of 697 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lesion_Det.vcxproj -> C:\Users\danie\Desktop\Daniel Bonanno FYP 2015 - 2016\FINAL YEAR PROJECT - CD CONTENTS PRE CORRECTIONS\Daniel Bonanno -Final Year Project 2016 Code and Executables\Lesion_Det\Release\Lesion_Det.exe
